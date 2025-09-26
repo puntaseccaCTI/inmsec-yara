@@ -1,0 +1,11 @@
+---
+- project:
+    name:
+    description:
+    division:
+    product:
+    path: /
+    data-classification: confidential
+    data-governance-scopes:
+
+# More information onthis file can be found in the Inmar Code Repository Policy (INM.IT.GEN.028) at https://drive.google.com/file/d/1AqbtCJyEfD2XitxCSEVcZPWt0npqssLi/view
